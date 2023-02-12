@@ -10,7 +10,7 @@ The console was developed in Ubuntu 14.04LTS using python3 (version 3.4.3).
 
 # Further information
 
-For further information on python version, and documentation visit python.org
+For further information on python version, and documentation visit https://www.python.org/
 
 # Requirements
 
