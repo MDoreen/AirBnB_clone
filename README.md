@@ -6,7 +6,7 @@ This is the first phase of a four phase project, to create a basic clone of the 
 
 # Environment
 
-The console was developed in Ubuntu 14.04LTS using python3 (version 3.4.3).
+The console was developed on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 # Further information
 
