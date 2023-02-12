@@ -14,4 +14,4 @@ For further information on python version, and documentation visit https://www.p
 
 # Requirements
 
-Knowledge in python3, how to use command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
+Knowledge in python3, how to use command line interpreter, a computer with Ubuntu 20.04, python3 and pep8 style corrector.
